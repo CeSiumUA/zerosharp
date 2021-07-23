@@ -6,5 +6,11 @@ obj/
 *.pdb
 *.obj
 *.map
+*.EFI
+diskpart.txt
+*.ilexe
+*.map
+*.obj
+*.vhdx
 
 !Test.CoreLib.pdb
